@@ -1,0 +1,641 @@
+Country,Year,Value
+Australia,2001,0.877
+Australia,2002,0.873
+Australia,2003,0.871
+Australia,2004,0.868
+Australia,2005,0.864
+Australia,2006,0.862
+Australia,2007,0.858
+Australia,2008,0.855
+Australia,2009,0.853
+Australia,2010,0.85
+Australia,2011,0.847
+Australia,2012,0.844
+Australia,2013,0.841
+Australia,2014,0.837
+Australia,2015,0.834
+Australia,2016,0.831
+Australia,2017,0.828
+Australia,2018,0.826
+Australia,2019,0.821
+Australia,2020,0.819
+Austria,2001,0.894
+Austria,2002,0.894
+Austria,2003,0.894
+Austria,2004,0.894
+Austria,2005,0.894
+Austria,2006,0.895
+Austria,2007,0.895
+Austria,2008,0.895
+Austria,2009,0.895
+Austria,2010,0.895
+Austria,2011,0.895
+Austria,2012,0.895
+Austria,2013,0.895
+Austria,2014,0.895
+Austria,2015,0.895
+Austria,2016,0.895
+Austria,2017,0.895
+Austria,2018,0.895
+Austria,2019,0.895
+Austria,2020,0.895
+Belgium,2001,0.982
+Belgium,2002,0.982
+Belgium,2003,0.982
+Belgium,2004,0.982
+Belgium,2005,0.982
+Belgium,2006,0.982
+Belgium,2007,0.982
+Belgium,2008,0.982
+Belgium,2009,0.982
+Belgium,2010,0.982
+Belgium,2011,0.983
+Belgium,2012,0.983
+Belgium,2013,0.983
+Belgium,2014,0.983
+Belgium,2015,0.983
+Belgium,2016,0.983
+Belgium,2017,0.983
+Belgium,2018,0.983
+Belgium,2019,0.983
+Belgium,2020,0.984
+Canada,2001,0.969
+Canada,2002,0.969
+Canada,2003,0.968
+Canada,2004,0.968
+Canada,2005,0.968
+Canada,2006,0.967
+Canada,2007,0.967
+Canada,2008,0.967
+Canada,2009,0.967
+Canada,2010,0.966
+Canada,2011,0.966
+Canada,2012,0.966
+Canada,2013,0.966
+Canada,2014,0.965
+Canada,2015,0.965
+Canada,2016,0.965
+Canada,2017,0.965
+Canada,2018,0.964
+Canada,2019,0.964
+Canada,2020,0.964
+Czech Republic,2001,0.969
+Czech Republic,2002,0.969
+Czech Republic,2003,0.969
+Czech Republic,2004,0.969
+Czech Republic,2005,0.969
+Czech Republic,2006,0.969
+Czech Republic,2007,0.969
+Czech Republic,2008,0.969
+Czech Republic,2009,0.969
+Czech Republic,2010,0.97
+Czech Republic,2011,0.97
+Czech Republic,2012,0.97
+Czech Republic,2013,0.97
+Czech Republic,2014,0.97
+Czech Republic,2015,0.97
+Czech Republic,2016,0.97
+Czech Republic,2017,0.97
+Czech Republic,2018,0.97
+Czech Republic,2019,0.971
+Czech Republic,2020,0.971
+Denmark,2001,0.976
+Denmark,2002,0.976
+Denmark,2003,0.976
+Denmark,2004,0.976
+Denmark,2005,0.976
+Denmark,2006,0.975
+Denmark,2007,0.976
+Denmark,2008,0.976
+Denmark,2009,0.976
+Denmark,2010,0.976
+Denmark,2011,0.976
+Denmark,2012,0.975
+Denmark,2013,0.975
+Denmark,2014,0.975
+Denmark,2015,0.974
+Denmark,2016,0.974
+Denmark,2017,0.974
+Denmark,2018,0.974
+Denmark,2019,0.974
+Denmark,2020,0.974
+Estonia,2001,0.987
+Estonia,2002,0.987
+Estonia,2003,0.987
+Estonia,2004,0.987
+Estonia,2005,0.986
+Estonia,2006,0.986
+Estonia,2007,0.986
+Estonia,2008,0.986
+Estonia,2009,0.986
+Estonia,2010,0.986
+Estonia,2011,0.986
+Estonia,2012,0.986
+Estonia,2013,0.986
+Estonia,2014,0.986
+Estonia,2015,0.986
+Estonia,2016,0.986
+Estonia,2017,0.986
+Estonia,2018,0.986
+Estonia,2019,0.986
+Estonia,2020,0.986
+Finland,2001,0.991
+Finland,2002,0.991
+Finland,2003,0.991
+Finland,2004,0.991
+Finland,2005,0.991
+Finland,2006,0.991
+Finland,2007,0.991
+Finland,2008,0.991
+Finland,2009,0.99
+Finland,2010,0.99
+Finland,2011,0.99
+Finland,2012,0.99
+Finland,2013,0.99
+Finland,2014,0.99
+Finland,2015,0.99
+Finland,2016,0.99
+Finland,2017,0.99
+Finland,2018,0.99
+Finland,2019,0.99
+Finland,2020,0.99
+France,2001,0.913
+France,2002,0.909
+France,2003,0.904
+France,2004,0.9
+France,2005,0.896
+France,2006,0.891
+France,2007,0.886
+France,2008,0.882
+France,2009,0.879
+France,2010,0.876
+France,2011,0.872
+France,2012,0.869
+France,2013,0.865
+France,2014,0.861
+France,2015,0.857
+France,2016,0.854
+France,2017,0.85
+France,2018,0.847
+France,2019,0.843
+France,2020,0.839
+Germany,2001,0.982
+Germany,2002,0.982
+Germany,2003,0.982
+Germany,2004,0.981
+Germany,2005,0.982
+Germany,2006,0.982
+Germany,2007,0.982
+Germany,2008,0.982
+Germany,2009,0.982
+Germany,2010,0.982
+Germany,2011,0.982
+Germany,2012,0.982
+Germany,2013,0.982
+Germany,2014,0.982
+Germany,2015,0.982
+Germany,2016,0.982
+Germany,2017,0.982
+Germany,2018,0.982
+Germany,2019,0.982
+Germany,2020,0.982
+Greece,2001,0.84
+Greece,2002,0.84
+Greece,2003,0.84
+Greece,2004,0.841
+Greece,2005,0.842
+Greece,2006,0.842
+Greece,2007,0.842
+Greece,2008,0.842
+Greece,2009,0.842
+Greece,2010,0.843
+Greece,2011,0.842
+Greece,2012,0.842
+Greece,2013,0.841
+Greece,2014,0.84
+Greece,2015,0.839
+Greece,2016,0.838
+Greece,2017,0.837
+Greece,2018,0.836
+Greece,2019,0.835
+Greece,2020,0.835
+Hungary,2001,0.863
+Hungary,2002,0.863
+Hungary,2003,0.863
+Hungary,2004,0.863
+Hungary,2005,0.863
+Hungary,2006,0.864
+Hungary,2007,0.864
+Hungary,2008,0.864
+Hungary,2009,0.864
+Hungary,2010,0.864
+Hungary,2011,0.864
+Hungary,2012,0.864
+Hungary,2013,0.864
+Hungary,2014,0.864
+Hungary,2015,0.864
+Hungary,2016,0.864
+Hungary,2017,0.864
+Hungary,2018,0.864
+Hungary,2019,0.864
+Hungary,2020,0.864
+Iceland,2001,0.872
+Iceland,2002,0.872
+Iceland,2003,0.872
+Iceland,2004,0.871
+Iceland,2005,0.872
+Iceland,2006,0.874
+Iceland,2007,0.875
+Iceland,2008,0.877
+Iceland,2009,0.877
+Iceland,2010,0.878
+Iceland,2011,0.877
+Iceland,2012,0.875
+Iceland,2013,0.871
+Iceland,2014,0.87
+Iceland,2015,0.867
+Iceland,2016,0.866
+Iceland,2017,0.865
+Iceland,2018,0.865
+Iceland,2019,0.865
+Iceland,2020,0.865
+Ireland,2001,0.919
+Ireland,2002,0.918
+Ireland,2003,0.917
+Ireland,2004,0.917
+Ireland,2005,0.917
+Ireland,2006,0.917
+Ireland,2007,0.917
+Ireland,2008,0.918
+Ireland,2009,0.918
+Ireland,2010,0.919
+Ireland,2011,0.919
+Ireland,2012,0.919
+Ireland,2013,0.918
+Ireland,2014,0.917
+Ireland,2015,0.916
+Ireland,2016,0.915
+Ireland,2017,0.915
+Ireland,2018,0.915
+Ireland,2019,0.915
+Ireland,2020,0.915
+Italy,2001,0.904
+Italy,2002,0.903
+Italy,2003,0.903
+Italy,2004,0.903
+Italy,2005,0.902
+Italy,2006,0.902
+Italy,2007,0.902
+Italy,2008,0.902
+Italy,2009,0.901
+Italy,2010,0.901
+Italy,2011,0.901
+Italy,2012,0.9
+Italy,2013,0.9
+Italy,2014,0.899
+Italy,2015,0.899
+Italy,2016,0.898
+Italy,2017,0.897
+Italy,2018,0.896
+Italy,2019,0.896
+Italy,2020,0.895
+Japan,2001,0.824
+Japan,2002,0.822
+Japan,2003,0.819
+Japan,2004,0.816
+Japan,2005,0.814
+Japan,2006,0.81
+Japan,2007,0.808
+Japan,2008,0.804
+Japan,2009,0.802
+Japan,2010,0.799
+Japan,2011,0.796
+Japan,2012,0.793
+Japan,2013,0.789
+Japan,2014,0.787
+Japan,2015,0.784
+Japan,2016,0.78
+Japan,2017,0.777
+Japan,2018,0.774
+Japan,2019,0.77
+Japan,2020,0.768
+Latvia,2001,0.989
+Latvia,2002,0.989
+Latvia,2003,0.989
+Latvia,2004,0.989
+Latvia,2005,0.989
+Latvia,2006,0.989
+Latvia,2007,0.989
+Latvia,2008,0.989
+Latvia,2009,0.989
+Latvia,2010,0.989
+Latvia,2011,0.989
+Latvia,2012,0.989
+Latvia,2013,0.989
+Latvia,2014,0.989
+Latvia,2015,0.989
+Latvia,2016,0.989
+Latvia,2017,0.989
+Latvia,2018,0.989
+Latvia,2019,0.989
+Latvia,2020,0.989
+Lithuania,2001,0.989
+Lithuania,2002,0.989
+Lithuania,2003,0.989
+Lithuania,2004,0.989
+Lithuania,2005,0.989
+Lithuania,2006,0.989
+Lithuania,2007,0.989
+Lithuania,2008,0.989
+Lithuania,2009,0.989
+Lithuania,2010,0.989
+Lithuania,2011,0.989
+Lithuania,2012,0.989
+Lithuania,2013,0.989
+Lithuania,2014,0.989
+Lithuania,2015,0.989
+Lithuania,2016,0.989
+Lithuania,2017,0.989
+Lithuania,2018,0.989
+Lithuania,2019,0.989
+Lithuania,2020,0.989
+Luxembourg,2001,0.983
+Luxembourg,2002,0.984
+Luxembourg,2003,0.984
+Luxembourg,2004,0.984
+Luxembourg,2005,0.984
+Luxembourg,2006,0.984
+Luxembourg,2007,0.984
+Luxembourg,2008,0.984
+Luxembourg,2009,0.984
+Luxembourg,2010,0.984
+Luxembourg,2011,0.984
+Luxembourg,2012,0.984
+Luxembourg,2013,0.984
+Luxembourg,2014,0.984
+Luxembourg,2015,0.984
+Luxembourg,2016,0.984
+Luxembourg,2017,0.985
+Luxembourg,2018,0.985
+Luxembourg,2019,0.985
+Luxembourg,2020,0.985
+Netherlands,2001,0.966
+Netherlands,2002,0.965
+Netherlands,2003,0.963
+Netherlands,2004,0.962
+Netherlands,2005,0.96
+Netherlands,2006,0.959
+Netherlands,2007,0.957
+Netherlands,2008,0.956
+Netherlands,2009,0.955
+Netherlands,2010,0.953
+Netherlands,2011,0.952
+Netherlands,2012,0.951
+Netherlands,2013,0.949
+Netherlands,2014,0.948
+Netherlands,2015,0.947
+Netherlands,2016,0.944
+Netherlands,2017,0.943
+Netherlands,2018,0.942
+Netherlands,2019,0.94
+Netherlands,2020,0.939
+New Zealand,2001,0.71
+New Zealand,2002,0.705
+New Zealand,2003,0.701
+New Zealand,2004,0.696
+New Zealand,2005,0.692
+New Zealand,2006,0.688
+New Zealand,2007,0.684
+New Zealand,2008,0.678
+New Zealand,2009,0.674
+New Zealand,2010,0.67
+New Zealand,2011,0.664
+New Zealand,2012,0.66
+New Zealand,2013,0.655
+New Zealand,2014,0.65
+New Zealand,2015,0.646
+New Zealand,2016,0.641
+New Zealand,2017,0.636
+New Zealand,2018,0.632
+New Zealand,2019,0.627
+New Zealand,2020,0.622
+Norway,2001,0.956
+Norway,2002,0.956
+Norway,2003,0.955
+Norway,2004,0.955
+Norway,2005,0.955
+Norway,2006,0.955
+Norway,2007,0.954
+Norway,2008,0.954
+Norway,2009,0.954
+Norway,2010,0.954
+Norway,2011,0.954
+Norway,2012,0.953
+Norway,2013,0.951
+Norway,2014,0.95
+Norway,2015,0.949
+Norway,2016,0.948
+Norway,2017,0.948
+Norway,2018,0.948
+Norway,2019,0.948
+Norway,2020,0.947
+Poland,2001,0.952
+Poland,2002,0.953
+Poland,2003,0.953
+Poland,2004,0.955
+Poland,2005,0.956
+Poland,2006,0.957
+Poland,2007,0.958
+Poland,2008,0.959
+Poland,2009,0.959
+Poland,2010,0.961
+Poland,2011,0.962
+Poland,2012,0.963
+Poland,2013,0.964
+Poland,2014,0.965
+Poland,2015,0.967
+Poland,2016,0.967
+Poland,2017,0.969
+Poland,2018,0.97
+Poland,2019,0.971
+Poland,2020,0.972
+Portugal,2001,0.873
+Portugal,2002,0.872
+Portugal,2003,0.872
+Portugal,2004,0.871
+Portugal,2005,0.87
+Portugal,2006,0.869
+Portugal,2007,0.869
+Portugal,2008,0.869
+Portugal,2009,0.869
+Portugal,2010,0.87
+Portugal,2011,0.87
+Portugal,2012,0.87
+Portugal,2013,0.87
+Portugal,2014,0.869
+Portugal,2015,0.869
+Portugal,2016,0.868
+Portugal,2017,0.867
+Portugal,2018,0.866
+Portugal,2019,0.866
+Portugal,2020,0.865
+Slovak Republic,2001,0.951
+Slovak Republic,2002,0.951
+Slovak Republic,2003,0.951
+Slovak Republic,2004,0.951
+Slovak Republic,2005,0.951
+Slovak Republic,2006,0.951
+Slovak Republic,2007,0.951
+Slovak Republic,2008,0.952
+Slovak Republic,2009,0.952
+Slovak Republic,2010,0.952
+Slovak Republic,2011,0.952
+Slovak Republic,2012,0.952
+Slovak Republic,2013,0.952
+Slovak Republic,2014,0.952
+Slovak Republic,2015,0.952
+Slovak Republic,2016,0.952
+Slovak Republic,2017,0.952
+Slovak Republic,2018,0.952
+Slovak Republic,2019,0.952
+Slovak Republic,2020,0.952
+Slovenia,2001,0.931
+Slovenia,2002,0.931
+Slovenia,2003,0.931
+Slovenia,2004,0.93
+Slovenia,2005,0.93
+Slovenia,2006,0.93
+Slovenia,2007,0.93
+Slovenia,2008,0.93
+Slovenia,2009,0.93
+Slovenia,2010,0.93
+Slovenia,2011,0.929
+Slovenia,2012,0.929
+Slovenia,2013,0.929
+Slovenia,2014,0.929
+Slovenia,2015,0.929
+Slovenia,2016,0.929
+Slovenia,2017,0.929
+Slovenia,2018,0.928
+Slovenia,2019,0.928
+Slovenia,2020,0.928
+Spain,2001,0.849
+Spain,2002,0.849
+Spain,2003,0.849
+Spain,2004,0.849
+Spain,2005,0.849
+Spain,2006,0.849
+Spain,2007,0.849
+Spain,2008,0.848
+Spain,2009,0.849
+Spain,2010,0.848
+Spain,2011,0.849
+Spain,2012,0.849
+Spain,2013,0.848
+Spain,2014,0.848
+Spain,2015,0.848
+Spain,2016,0.848
+Spain,2017,0.848
+Spain,2018,0.847
+Spain,2019,0.847
+Spain,2020,0.847
+Sweden,2001,0.993
+Sweden,2002,0.993
+Sweden,2003,0.993
+Sweden,2004,0.993
+Sweden,2005,0.993
+Sweden,2006,0.993
+Sweden,2007,0.993
+Sweden,2008,0.993
+Sweden,2009,0.993
+Sweden,2010,0.993
+Sweden,2011,0.993
+Sweden,2012,0.993
+Sweden,2013,0.993
+Sweden,2014,0.992
+Sweden,2015,0.992
+Sweden,2016,0.992
+Sweden,2017,0.992
+Sweden,2018,0.992
+Sweden,2019,0.992
+Sweden,2020,0.992
+Switzerland,2001,0.973
+Switzerland,2002,0.973
+Switzerland,2003,0.973
+Switzerland,2004,0.973
+Switzerland,2005,0.973
+Switzerland,2006,0.973
+Switzerland,2007,0.973
+Switzerland,2008,0.973
+Switzerland,2009,0.973
+Switzerland,2010,0.973
+Switzerland,2011,0.973
+Switzerland,2012,0.973
+Switzerland,2013,0.973
+Switzerland,2014,0.973
+Switzerland,2015,0.973
+Switzerland,2016,0.973
+Switzerland,2017,0.973
+Switzerland,2018,0.973
+Switzerland,2019,0.973
+Switzerland,2020,0.973
+Türkiye,2001,0.888
+Türkiye,2002,0.887
+Türkiye,2003,0.887
+Türkiye,2004,0.887
+Türkiye,2005,0.886
+Türkiye,2006,0.886
+Türkiye,2007,0.886
+Türkiye,2008,0.885
+Türkiye,2009,0.885
+Türkiye,2010,0.885
+Türkiye,2011,0.884
+Türkiye,2012,0.884
+Türkiye,2013,0.884
+Türkiye,2014,0.883
+Türkiye,2015,0.883
+Türkiye,2016,0.883
+Türkiye,2017,0.882
+Türkiye,2018,0.882
+Türkiye,2019,0.882
+Türkiye,2020,0.881
+United Kingdom,2001,0.965
+United Kingdom,2002,0.964
+United Kingdom,2003,0.964
+United Kingdom,2004,0.963
+United Kingdom,2005,0.963
+United Kingdom,2006,0.963
+United Kingdom,2007,0.963
+United Kingdom,2008,0.963
+United Kingdom,2009,0.963
+United Kingdom,2010,0.964
+United Kingdom,2011,0.963
+United Kingdom,2012,0.963
+United Kingdom,2013,0.963
+United Kingdom,2014,0.962
+United Kingdom,2015,0.962
+United Kingdom,2016,0.962
+United Kingdom,2017,0.962
+United Kingdom,2018,0.962
+United Kingdom,2019,0.962
+United Kingdom,2020,0.962
+United States,2001,0.848
+United States,2002,0.847
+United States,2003,0.846
+United States,2004,0.845
+United States,2005,0.844
+United States,2006,0.843
+United States,2007,0.842
+United States,2008,0.841
+United States,2009,0.84
+United States,2010,0.839
+United States,2011,0.839
+United States,2012,0.838
+United States,2013,0.837
+United States,2014,0.837
+United States,2015,0.836
+United States,2016,0.835
+United States,2017,0.835
+United States,2018,0.834
+United States,2019,0.833
+United States,2020,0.833

@@ -1,0 +1,821 @@
+REF_AREA: Reference area,TIME_PERIOD: Time period,OBS_VALUE,CLIMATE_HAZARDS
+Australia,2001,900401.4277,wildfire
+Australia,2002,761169.0155,wildfire
+Australia,2003,374209.8141,wildfire
+Australia,2004,607280.0186,wildfire
+Australia,2005,302423.1314,wildfire
+Australia,2006,527394.7873,wildfire
+Australia,2007,565249.2332,wildfire
+Australia,2008,321263.8087,wildfire
+Australia,2009,366586.4526,wildfire
+Australia,2010,225593.58,wildfire
+Australia,2011,845709.1854,wildfire
+Australia,2012,885627.6825,wildfire
+Australia,2013,331842.2672,wildfire
+Australia,2014,467643.5311,wildfire
+Australia,2015,427884.8787,wildfire
+Australia,2016,244031.5651,wildfire
+Australia,2017,445588.8819,wildfire
+Australia,2018,554478.1871,wildfire
+Australia,2019,306703.6051,wildfire
+Australia,2020,222180.0596,wildfire
+Austria,2001,98.22296982,wildfire
+Austria,2002,12.33797054,wildfire
+Austria,2003,19.87738719,wildfire
+Austria,2004,53.11718983,wildfire
+Austria,2005,35.59498149,wildfire
+Austria,2006,20.37342938,wildfire
+Austria,2007,0.159780936,wildfire
+Austria,2008,29.37591641,wildfire
+Austria,2009,15.56086963,wildfire
+Austria,2010,0.0,wildfire
+Austria,2011,33.10387324,wildfire
+Austria,2012,0.653601837,wildfire
+Austria,2013,3.051425667,wildfire
+Austria,2014,14.13428919,wildfire
+Austria,2015,0.0,wildfire
+Austria,2016,0.805302405,wildfire
+Austria,2017,2.765892459,wildfire
+Austria,2018,6.984676875,wildfire
+Austria,2019,0.582801616,wildfire
+Austria,2020,1.457677535,wildfire
+Belgium,2001,0.0,wildfire
+Belgium,2002,0.0,wildfire
+Belgium,2003,0.150090089,wildfire
+Belgium,2004,1.523039696,wildfire
+Belgium,2005,0.0,wildfire
+Belgium,2006,3.723245961,wildfire
+Belgium,2007,9.782647133,wildfire
+Belgium,2008,0.0,wildfire
+Belgium,2009,3.912383113,wildfire
+Belgium,2010,0.0,wildfire
+Belgium,2011,8.926615232,wildfire
+Belgium,2012,0.0,wildfire
+Belgium,2013,0.0,wildfire
+Belgium,2014,0.769659439,wildfire
+Belgium,2015,0.0,wildfire
+Belgium,2016,1.201021654,wildfire
+Belgium,2017,0.0,wildfire
+Belgium,2018,0.0,wildfire
+Belgium,2019,0.0,wildfire
+Belgium,2020,12.27976596,wildfire
+Canada,2001,3747.8041,wildfire
+Canada,2002,24987.19128,wildfire
+Canada,2003,18930.87336,wildfire
+Canada,2004,22864.4507,wildfire
+Canada,2005,15048.16206,wildfire
+Canada,2006,19139.10467,wildfire
+Canada,2007,13946.23992,wildfire
+Canada,2008,15026.71901,wildfire
+Canada,2009,6896.797814,wildfire
+Canada,2010,25347.1017,wildfire
+Canada,2011,16485.46347,wildfire
+Canada,2012,16018.36928,wildfire
+Canada,2013,38797.20767,wildfire
+Canada,2014,31636.55616,wildfire
+Canada,2015,29756.70488,wildfire
+Canada,2016,9814.751743,wildfire
+Canada,2017,29343.64541,wildfire
+Canada,2018,18278.15101,wildfire
+Canada,2019,12811.36175,wildfire
+Canada,2020,2631.388173,wildfire
+Chile,2001,92.68556267,wildfire
+Chile,2002,543.1451089,wildfire
+Chile,2003,761.4463966,wildfire
+Chile,2004,614.2300585,wildfire
+Chile,2005,1237.381836,wildfire
+Chile,2006,338.5850118,wildfire
+Chile,2007,713.4972553,wildfire
+Chile,2008,849.1026947,wildfire
+Chile,2009,738.3292421,wildfire
+Chile,2010,789.352184,wildfire
+Chile,2011,712.9459689,wildfire
+Chile,2012,1385.352109,wildfire
+Chile,2013,208.1391537,wildfire
+Chile,2014,1270.653113,wildfire
+Chile,2015,2278.356691,wildfire
+Chile,2016,645.4088852,wildfire
+Chile,2017,5063.729328,wildfire
+Chile,2018,379.0062292,wildfire
+Chile,2019,1103.070055,wildfire
+Chile,2020,940.7371518,wildfire
+Colombia,2001,24656.01662,wildfire
+Colombia,2002,17950.84719,wildfire
+Colombia,2003,32707.92789,wildfire
+Colombia,2004,38333.23909,wildfire
+Colombia,2005,19024.87161,wildfire
+Colombia,2006,18868.2482,wildfire
+Colombia,2007,37403.67857,wildfire
+Colombia,2008,24403.22797,wildfire
+Colombia,2009,17742.409,wildfire
+Colombia,2010,19973.76403,wildfire
+Colombia,2011,15574.2777,wildfire
+Colombia,2012,13484.21231,wildfire
+Colombia,2013,17419.40273,wildfire
+Colombia,2014,24693.07244,wildfire
+Colombia,2015,14337.4252,wildfire
+Colombia,2016,19594.16583,wildfire
+Colombia,2017,12155.60473,wildfire
+Colombia,2018,25469.38891,wildfire
+Colombia,2019,17372.43215,wildfire
+Colombia,2020,23156.50932,wildfire
+Costa Rica,2001,413.1371887,wildfire
+Costa Rica,2002,283.9438589,wildfire
+Costa Rica,2003,397.9482347,wildfire
+Costa Rica,2004,315.74187,wildfire
+Costa Rica,2005,195.2674489,wildfire
+Costa Rica,2006,155.973651,wildfire
+Costa Rica,2007,307.8633369,wildfire
+Costa Rica,2008,178.6566732,wildfire
+Costa Rica,2009,253.1795962,wildfire
+Costa Rica,2010,255.6584045,wildfire
+Costa Rica,2011,150.1464582,wildfire
+Costa Rica,2012,336.4138972,wildfire
+Costa Rica,2013,537.9482181,wildfire
+Costa Rica,2014,390.9446332,wildfire
+Costa Rica,2015,492.911725,wildfire
+Costa Rica,2016,546.5636504,wildfire
+Costa Rica,2017,314.788182,wildfire
+Costa Rica,2018,397.6981087,wildfire
+Costa Rica,2019,436.0194884,wildfire
+Costa Rica,2020,378.4549829,wildfire
+Czech Republic,2001,17.80248581,wildfire
+Czech Republic,2002,4.133524906,wildfire
+Czech Republic,2003,39.76651357,wildfire
+Czech Republic,2004,8.833298924,wildfire
+Czech Republic,2005,23.94443181,wildfire
+Czech Republic,2006,1.54690935,wildfire
+Czech Republic,2007,23.04237548,wildfire
+Czech Republic,2008,7.082138747,wildfire
+Czech Republic,2009,6.85171185,wildfire
+Czech Republic,2010,3.091525105,wildfire
+Czech Republic,2011,4.342259323,wildfire
+Czech Republic,2012,23.71747376,wildfire
+Czech Republic,2013,3.41081095,wildfire
+Czech Republic,2014,7.449390511,wildfire
+Czech Republic,2015,28.44351732,wildfire
+Czech Republic,2016,14.11283419,wildfire
+Czech Republic,2017,46.08674141,wildfire
+Czech Republic,2018,7.435497433,wildfire
+Czech Republic,2019,41.63691892,wildfire
+Czech Republic,2020,7.232044546,wildfire
+Denmark,2001,104.8194117,wildfire
+Denmark,2002,24.09455217,wildfire
+Denmark,2003,123.5943824,wildfire
+Denmark,2004,80.8240102,wildfire
+Denmark,2005,0.264799371,wildfire
+Denmark,2006,157.2561888,wildfire
+Denmark,2007,11.21517965,wildfire
+Denmark,2008,32.34908754,wildfire
+Denmark,2009,9.859461197,wildfire
+Denmark,2010,0.0,wildfire
+Denmark,2011,0.265777141,wildfire
+Denmark,2012,5.38627324,wildfire
+Denmark,2013,10.26763904,wildfire
+Denmark,2014,0.0,wildfire
+Denmark,2015,13.52771694,wildfire
+Denmark,2016,0.0,wildfire
+Denmark,2017,0.0,wildfire
+Denmark,2018,5.974832215,wildfire
+Denmark,2019,1.722916313,wildfire
+Denmark,2020,0.246323359,wildfire
+Estonia,2001,0.0,wildfire
+Estonia,2002,46.24893957,wildfire
+Estonia,2003,48.36755041,wildfire
+Estonia,2004,18.88662484,wildfire
+Estonia,2005,0.0,wildfire
+Estonia,2006,31.3838264,wildfire
+Estonia,2007,0.012354905,wildfire
+Estonia,2008,6.256291447,wildfire
+Estonia,2009,0.488034842,wildfire
+Estonia,2010,3.235018876,wildfire
+Estonia,2011,1.469285693,wildfire
+Estonia,2012,0.834207601,wildfire
+Estonia,2013,12.02603098,wildfire
+Estonia,2014,1.861329799,wildfire
+Estonia,2015,3.970130933,wildfire
+Estonia,2016,0.246271781,wildfire
+Estonia,2017,4.410821212,wildfire
+Estonia,2018,4.669516424,wildfire
+Estonia,2019,3.018091927,wildfire
+Estonia,2020,1.666259245,wildfire
+Finland,2001,8.952348037,wildfire
+Finland,2002,4.775320884,wildfire
+Finland,2003,62.44932896,wildfire
+Finland,2004,0.0,wildfire
+Finland,2005,1.179362362,wildfire
+Finland,2006,91.76991288,wildfire
+Finland,2007,12.88395217,wildfire
+Finland,2008,47.24390997,wildfire
+Finland,2009,29.9353918,wildfire
+Finland,2010,9.970915224,wildfire
+Finland,2011,27.76293267,wildfire
+Finland,2012,0.0,wildfire
+Finland,2013,11.35560425,wildfire
+Finland,2014,3.160184887,wildfire
+Finland,2015,5.519276176,wildfire
+Finland,2016,20.39422377,wildfire
+Finland,2017,0.0,wildfire
+Finland,2018,51.88587299,wildfire
+Finland,2019,27.37213157,wildfire
+Finland,2020,0.0,wildfire
+France,2001,416.8350343,wildfire
+France,2002,946.6059604,wildfire
+France,2003,763.4489594,wildfire
+France,2004,655.6714703,wildfire
+France,2005,658.0167593,wildfire
+France,2006,307.4248463,wildfire
+France,2007,135.4363511,wildfire
+France,2008,588.4363861,wildfire
+France,2009,311.3975743,wildfire
+France,2010,397.9239922,wildfire
+France,2011,200.542177,wildfire
+France,2012,439.3376637,wildfire
+France,2013,106.2933955,wildfire
+France,2014,281.0722201,wildfire
+France,2015,186.0933002,wildfire
+France,2016,272.984134,wildfire
+France,2017,532.4211748,wildfire
+France,2018,32.60767959,wildfire
+France,2019,472.0886637,wildfire
+France,2020,85.88124111,wildfire
+Germany,2001,8.254701142,wildfire
+Germany,2002,8.725953101,wildfire
+Germany,2003,23.60193697,wildfire
+Germany,2004,9.57624054,wildfire
+Germany,2005,5.617369931,wildfire
+Germany,2006,38.37774259,wildfire
+Germany,2007,6.729411929,wildfire
+Germany,2008,140.8710226,wildfire
+Germany,2009,7.009812463,wildfire
+Germany,2010,0.0,wildfire
+Germany,2011,9.108619082,wildfire
+Germany,2012,2.904531131,wildfire
+Germany,2013,8.264278328,wildfire
+Germany,2014,26.97936449,wildfire
+Germany,2015,41.2465112,wildfire
+Germany,2016,3.438449261,wildfire
+Germany,2017,30.72610297,wildfire
+Germany,2018,51.79572571,wildfire
+Germany,2019,52.44872165,wildfire
+Germany,2020,4.038904954,wildfire
+Greece,2001,963.3705603,wildfire
+Greece,2002,231.482205,wildfire
+Greece,2003,120.7172345,wildfire
+Greece,2004,573.4738567,wildfire
+Greece,2005,324.1600723,wildfire
+Greece,2006,354.84521,wildfire
+Greece,2007,3200.491632,wildfire
+Greece,2008,1151.040874,wildfire
+Greece,2009,516.8887365,wildfire
+Greece,2010,199.5138711,wildfire
+Greece,2011,725.8710663,wildfire
+Greece,2012,948.056976,wildfire
+Greece,2013,698.8091087,wildfire
+Greece,2014,482.3525164,wildfire
+Greece,2015,297.596955,wildfire
+Greece,2016,559.6530402,wildfire
+Greece,2017,408.6595801,wildfire
+Greece,2018,279.7219078,wildfire
+Greece,2019,200.7601614,wildfire
+Greece,2020,158.0605168,wildfire
+Hungary,2001,600.1573758,wildfire
+Hungary,2002,198.77851,wildfire
+Hungary,2003,348.7232199,wildfire
+Hungary,2004,190.2137165,wildfire
+Hungary,2005,92.05250762,wildfire
+Hungary,2006,280.0761189,wildfire
+Hungary,2007,306.0417301,wildfire
+Hungary,2008,168.4709383,wildfire
+Hungary,2009,89.09891317,wildfire
+Hungary,2010,24.04399918,wildfire
+Hungary,2011,116.1818317,wildfire
+Hungary,2012,173.6895738,wildfire
+Hungary,2013,27.32854839,wildfire
+Hungary,2014,274.5989336,wildfire
+Hungary,2015,38.93756597,wildfire
+Hungary,2016,2.265933495,wildfire
+Hungary,2017,29.44686841,wildfire
+Hungary,2018,12.29047392,wildfire
+Hungary,2019,28.89237216,wildfire
+Hungary,2020,15.22720431,wildfire
+Iceland,2001,0.0,wildfire
+Iceland,2002,0.0,wildfire
+Iceland,2003,0.0,wildfire
+Iceland,2004,0.0,wildfire
+Iceland,2005,0.0,wildfire
+Iceland,2006,0.0,wildfire
+Iceland,2007,0.0,wildfire
+Iceland,2008,0.0,wildfire
+Iceland,2009,0.0,wildfire
+Iceland,2010,0.0,wildfire
+Iceland,2011,0.0,wildfire
+Iceland,2012,0.0,wildfire
+Iceland,2013,0.0,wildfire
+Iceland,2014,0.0,wildfire
+Iceland,2015,0.0,wildfire
+Iceland,2016,0.0,wildfire
+Iceland,2017,0.0,wildfire
+Iceland,2018,0.0,wildfire
+Iceland,2019,0.0,wildfire
+Iceland,2020,0.0,wildfire
+Ireland,2001,0.0,wildfire
+Ireland,2002,0.0,wildfire
+Ireland,2003,11.10470659,wildfire
+Ireland,2004,0.0,wildfire
+Ireland,2005,4.720688952,wildfire
+Ireland,2006,7.169374774,wildfire
+Ireland,2007,32.96005934,wildfire
+Ireland,2008,0.0,wildfire
+Ireland,2009,0.0,wildfire
+Ireland,2010,83.01251121,wildfire
+Ireland,2011,56.2273876,wildfire
+Ireland,2012,0.862158298,wildfire
+Ireland,2013,0.0,wildfire
+Ireland,2014,0.0,wildfire
+Ireland,2015,44.47257714,wildfire
+Ireland,2016,0.286049238,wildfire
+Ireland,2017,40.18107887,wildfire
+Ireland,2018,15.28121724,wildfire
+Ireland,2019,9.043623933,wildfire
+Ireland,2020,7.493152145,wildfire
+Israel,2001,7.551949328,wildfire
+Israel,2002,9.390107893,wildfire
+Israel,2003,19.24611247,wildfire
+Israel,2004,25.28449408,wildfire
+Israel,2005,22.70699334,wildfire
+Israel,2006,23.07190405,wildfire
+Israel,2007,17.65731328,wildfire
+Israel,2008,3.593470611,wildfire
+Israel,2009,0.402824293,wildfire
+Israel,2010,55.69055956,wildfire
+Israel,2011,2.672149664,wildfire
+Israel,2012,21.32005141,wildfire
+Israel,2013,65.44043859,wildfire
+Israel,2014,8.369592712,wildfire
+Israel,2015,8.792322211,wildfire
+Israel,2016,26.19071026,wildfire
+Israel,2017,1.693329557,wildfire
+Israel,2018,1.22572704,wildfire
+Israel,2019,17.04995202,wildfire
+Israel,2020,9.393766099,wildfire
+Italy,2001,1407.255165,wildfire
+Italy,2002,761.8497233,wildfire
+Italy,2003,1588.581029,wildfire
+Italy,2004,1725.17428,wildfire
+Italy,2005,571.0394593,wildfire
+Italy,2006,480.5866603,wildfire
+Italy,2007,2336.336214,wildfire
+Italy,2008,1325.609183,wildfire
+Italy,2009,558.3383522,wildfire
+Italy,2010,800.6538961,wildfire
+Italy,2011,891.6763882,wildfire
+Italy,2012,1629.880546,wildfire
+Italy,2013,386.7967654,wildfire
+Italy,2014,1069.160316,wildfire
+Italy,2015,196.6745806,wildfire
+Italy,2016,548.6940511,wildfire
+Italy,2017,1242.629313,wildfire
+Italy,2018,184.4845618,wildfire
+Italy,2019,691.9441366,wildfire
+Italy,2020,377.5793147,wildfire
+Japan,2001,89.39355396,wildfire
+Japan,2002,127.5524571,wildfire
+Japan,2003,140.417486,wildfire
+Japan,2004,68.37849577,wildfire
+Japan,2005,107.2804367,wildfire
+Japan,2006,144.6667619,wildfire
+Japan,2007,149.2471918,wildfire
+Japan,2008,134.6653848,wildfire
+Japan,2009,218.1774864,wildfire
+Japan,2010,113.910543,wildfire
+Japan,2011,139.8938238,wildfire
+Japan,2012,32.02306732,wildfire
+Japan,2013,151.2273675,wildfire
+Japan,2014,231.1162954,wildfire
+Japan,2015,125.0946286,wildfire
+Japan,2016,48.42826912,wildfire
+Japan,2017,89.37625542,wildfire
+Japan,2018,199.455932,wildfire
+Japan,2019,161.4449291,wildfire
+Japan,2020,155.960833,wildfire
+Korea,2001,7.117853569,wildfire
+Korea,2002,52.91120635,wildfire
+Korea,2003,80.64836421,wildfire
+Korea,2004,105.06994,wildfire
+Korea,2005,104.7421271,wildfire
+Korea,2006,18.34802017,wildfire
+Korea,2007,47.22992318,wildfire
+Korea,2008,32.30136404,wildfire
+Korea,2009,52.41410891,wildfire
+Korea,2010,10.23775687,wildfire
+Korea,2011,194.3597815,wildfire
+Korea,2012,0.978254485,wildfire
+Korea,2013,23.40255573,wildfire
+Korea,2014,114.4679974,wildfire
+Korea,2015,65.56095031,wildfire
+Korea,2016,25.37063056,wildfire
+Korea,2017,94.04056695,wildfire
+Korea,2018,0.236435951,wildfire
+Korea,2019,33.09483737,wildfire
+Korea,2020,73.02582696,wildfire
+Latvia,2001,28.57454241,wildfire
+Latvia,2002,75.23155822,wildfire
+Latvia,2003,199.8933363,wildfire
+Latvia,2004,25.79335947,wildfire
+Latvia,2005,2.255322088,wildfire
+Latvia,2006,17.73404671,wildfire
+Latvia,2007,15.93554015,wildfire
+Latvia,2008,0.0,wildfire
+Latvia,2009,5.50184737,wildfire
+Latvia,2010,10.13892207,wildfire
+Latvia,2011,0.0,wildfire
+Latvia,2012,6.48137541,wildfire
+Latvia,2013,17.209786,wildfire
+Latvia,2014,11.05066111,wildfire
+Latvia,2015,15.56079302,wildfire
+Latvia,2016,3.966401497,wildfire
+Latvia,2017,0.394256927,wildfire
+Latvia,2018,16.94224481,wildfire
+Latvia,2019,0.578622446,wildfire
+Latvia,2020,1.410446266,wildfire
+Lithuania,2001,8.188380733,wildfire
+Lithuania,2002,63.42026357,wildfire
+Lithuania,2003,79.9011444,wildfire
+Lithuania,2004,13.30126937,wildfire
+Lithuania,2005,18.83694687,wildfire
+Lithuania,2006,12.76727312,wildfire
+Lithuania,2007,13.30519165,wildfire
+Lithuania,2008,37.381861,wildfire
+Lithuania,2009,45.73906865,wildfire
+Lithuania,2010,1.488669308,wildfire
+Lithuania,2011,6.168556381,wildfire
+Lithuania,2012,1.465449101,wildfire
+Lithuania,2013,0.0,wildfire
+Lithuania,2014,1.028910756,wildfire
+Lithuania,2015,10.51058229,wildfire
+Lithuania,2016,0.0,wildfire
+Lithuania,2017,0.133529017,wildfire
+Lithuania,2018,6.856959193,wildfire
+Lithuania,2019,0.367636498,wildfire
+Lithuania,2020,14.74342514,wildfire
+Luxembourg,2001,0.0,wildfire
+Luxembourg,2002,0.0,wildfire
+Luxembourg,2003,0.0,wildfire
+Luxembourg,2004,0.0,wildfire
+Luxembourg,2005,0.0,wildfire
+Luxembourg,2006,1.299290025,wildfire
+Luxembourg,2007,0.0,wildfire
+Luxembourg,2008,0.0,wildfire
+Luxembourg,2009,0.003877779,wildfire
+Luxembourg,2010,0.0,wildfire
+Luxembourg,2011,0.0,wildfire
+Luxembourg,2012,0.0,wildfire
+Luxembourg,2013,0.0,wildfire
+Luxembourg,2014,0.0,wildfire
+Luxembourg,2015,0.0,wildfire
+Luxembourg,2016,0.0,wildfire
+Luxembourg,2017,0.007261015,wildfire
+Luxembourg,2018,0.0,wildfire
+Luxembourg,2019,0.0,wildfire
+Luxembourg,2020,0.0,wildfire
+Mexico,2001,11070.71476,wildfire
+Mexico,2002,16162.77089,wildfire
+Mexico,2003,25027.73402,wildfire
+Mexico,2004,9657.771318,wildfire
+Mexico,2005,25732.96422,wildfire
+Mexico,2006,15707.35567,wildfire
+Mexico,2007,16302.23028,wildfire
+Mexico,2008,18674.97196,wildfire
+Mexico,2009,16813.18185,wildfire
+Mexico,2010,10401.62276,wildfire
+Mexico,2011,33181.91814,wildfire
+Mexico,2012,15108.62984,wildfire
+Mexico,2013,17798.08997,wildfire
+Mexico,2014,5753.804838,wildfire
+Mexico,2015,9277.290661,wildfire
+Mexico,2016,14167.42971,wildfire
+Mexico,2017,19785.73235,wildfire
+Mexico,2018,13915.52568,wildfire
+Mexico,2019,19401.3852,wildfire
+Mexico,2020,14201.5282,wildfire
+Netherlands,2001,0.0,wildfire
+Netherlands,2002,0.0,wildfire
+Netherlands,2003,0.145965507,wildfire
+Netherlands,2004,0.0,wildfire
+Netherlands,2005,0.0,wildfire
+Netherlands,2006,7.552608528,wildfire
+Netherlands,2007,4.325580945,wildfire
+Netherlands,2008,0.0,wildfire
+Netherlands,2009,0.0,wildfire
+Netherlands,2010,0.0,wildfire
+Netherlands,2011,0.017630666,wildfire
+Netherlands,2012,0.29222184,wildfire
+Netherlands,2013,0.0,wildfire
+Netherlands,2014,0.0,wildfire
+Netherlands,2015,0.0,wildfire
+Netherlands,2016,0.0,wildfire
+Netherlands,2017,0.0,wildfire
+Netherlands,2018,0.148799838,wildfire
+Netherlands,2019,0.133516843,wildfire
+Netherlands,2020,0.268258707,wildfire
+New Zealand,2001,123.2486729,wildfire
+New Zealand,2002,0.742120737,wildfire
+New Zealand,2003,9.910281508,wildfire
+New Zealand,2004,9.864836867,wildfire
+New Zealand,2005,0.0,wildfire
+New Zealand,2006,33.41755782,wildfire
+New Zealand,2007,36.51476645,wildfire
+New Zealand,2008,6.343544717,wildfire
+New Zealand,2009,4.280063732,wildfire
+New Zealand,2010,12.88690292,wildfire
+New Zealand,2011,12.05940612,wildfire
+New Zealand,2012,4.26735173,wildfire
+New Zealand,2013,36.31329849,wildfire
+New Zealand,2014,6.760821117,wildfire
+New Zealand,2015,9.998752099,wildfire
+New Zealand,2016,69.03414917,wildfire
+New Zealand,2017,38.43817602,wildfire
+New Zealand,2018,5.519019296,wildfire
+New Zealand,2019,54.15390863,wildfire
+New Zealand,2020,101.3583178,wildfire
+Norway,2001,0.0,wildfire
+Norway,2002,5.159090136,wildfire
+Norway,2003,32.72297754,wildfire
+Norway,2004,0.0,wildfire
+Norway,2005,0.0,wildfire
+Norway,2006,22.89785621,wildfire
+Norway,2007,26.57344401,wildfire
+Norway,2008,51.85164476,wildfire
+Norway,2009,0.0,wildfire
+Norway,2010,0.0,wildfire
+Norway,2011,0.0,wildfire
+Norway,2012,0.0,wildfire
+Norway,2013,0.0,wildfire
+Norway,2014,0.0,wildfire
+Norway,2015,0.0,wildfire
+Norway,2016,0.0,wildfire
+Norway,2017,0.167574901,wildfire
+Norway,2018,8.886585516,wildfire
+Norway,2019,12.71234853,wildfire
+Norway,2020,0.0,wildfire
+OECD - Europe,2001,11510.92139,wildfire
+OECD - Europe,2002,9911.762681,wildfire
+OECD - Europe,2003,14752.01204,wildfire
+OECD - Europe,2004,10947.91191,wildfire
+OECD - Europe,2005,11550.2377,wildfire
+OECD - Europe,2006,10266.8189,wildfire
+OECD - Europe,2007,11897.71178,wildfire
+OECD - Europe,2008,6948.998738,wildfire
+OECD - Europe,2009,17211.42197,wildfire
+OECD - Europe,2010,11946.93921,wildfire
+OECD - Europe,2011,13837.29195,wildfire
+OECD - Europe,2012,9491.564305,wildfire
+OECD - Europe,2013,10194.79654,wildfire
+OECD - Europe,2014,7221.307996,wildfire
+OECD - Europe,2015,12838.11134,wildfire
+OECD - Europe,2016,12070.9002,wildfire
+OECD - Europe,2017,14076.54505,wildfire
+OECD - Europe,2018,5075.080928,wildfire
+OECD - Europe,2019,5979.544897,wildfire
+OECD - Europe,2020,6650.364132,wildfire
+OECD - Total,2001,966156.5792,wildfire
+OECD - Total,2002,857232.8275,wildfire
+OECD - Total,2003,497250.9452,wildfire
+OECD - Total,2004,731309.6408,wildfire
+OECD - Total,2005,420268.1727,wildfire
+OECD - Total,2006,632784.0206,wildfire
+OECD - Total,2007,689286.566,wildfire
+OECD - Total,2008,418520.3611,wildfire
+OECD - Total,2009,459341.9826,wildfire
+OECD - Total,2010,320171.4753,wildfire
+OECD - Total,2011,971774.5713,wildfire
+OECD - Total,2012,981736.7218,wildfire
+OECD - Total,2013,440131.4216,wildfire
+OECD - Total,2014,565288.0275,wildfire
+OECD - Total,2015,540235.472,wildfire
+OECD - Total,2016,333162.1879,wildfire
+OECD - Total,2017,566929.688,wildfire
+OECD - Total,2018,659114.8155,wildfire
+OECD - Total,2019,392052.3852,wildfire
+OECD - Total,2020,319935.9021,wildfire
+Poland,2001,62.36543975,wildfire
+Poland,2002,186.1138764,wildfire
+Poland,2003,268.2326335,wildfire
+Poland,2004,70.53172109,wildfire
+Poland,2005,141.7885096,wildfire
+Poland,2006,71.519975,wildfire
+Poland,2007,47.81159925,wildfire
+Poland,2008,143.8560859,wildfire
+Poland,2009,33.27890064,wildfire
+Poland,2010,92.96161843,wildfire
+Poland,2011,50.09801814,wildfire
+Poland,2012,58.87436819,wildfire
+Poland,2013,39.84456357,wildfire
+Poland,2014,21.90795885,wildfire
+Poland,2015,46.21297606,wildfire
+Poland,2016,10.37267314,wildfire
+Poland,2017,9.698332365,wildfire
+Poland,2018,45.63012535,wildfire
+Poland,2019,9.705922324,wildfire
+Poland,2020,47.42673654,wildfire
+Portugal,2001,864.9041365,wildfire
+Portugal,2002,1050.381751,wildfire
+Portugal,2003,4785.371593,wildfire
+Portugal,2004,1109.494393,wildfire
+Portugal,2005,3323.621041,wildfire
+Portugal,2006,697.4664227,wildfire
+Portugal,2007,168.2203127,wildfire
+Portugal,2008,77.33996504,wildfire
+Portugal,2009,677.2358802,wildfire
+Portugal,2010,1523.810905,wildfire
+Portugal,2011,556.4924799,wildfire
+Portugal,2012,894.1708717,wildfire
+Portugal,2013,1809.760892,wildfire
+Portugal,2014,113.9695607,wildfire
+Portugal,2015,447.4962075,wildfire
+Portugal,2016,1615.803191,wildfire
+Portugal,2017,5233.095198,wildfire
+Portugal,2018,374.1260912,wildfire
+Portugal,2019,291.2931646,wildfire
+Portugal,2020,549.6114669,wildfire
+Russia,2001,119502.062,wildfire
+Russia,2002,157056.6366,wildfire
+Russia,2003,218636.4297,wildfire
+Russia,2004,104179.2271,wildfire
+Russia,2005,126299.8094,wildfire
+Russia,2006,143693.7951,wildfire
+Russia,2007,109179.5709,wildfire
+Russia,2008,232590.2482,wildfire
+Russia,2009,128541.7016,wildfire
+Russia,2010,109064.9459,wildfire
+Russia,2011,125396.3799,wildfire
+Russia,2012,145595.2044,wildfire
+Russia,2013,68167.77829,wildfire
+Russia,2014,162919.5747,wildfire
+Russia,2015,94908.07314,wildfire
+Russia,2016,92816.58161,wildfire
+Russia,2017,80815.12335,wildfire
+Russia,2018,120892.9115,wildfire
+Russia,2019,115226.7649,wildfire
+Russia,2020,105178.2318,wildfire
+Slovak Republic,2001,42.44232001,wildfire
+Slovak Republic,2002,57.25122245,wildfire
+Slovak Republic,2003,10.41354551,wildfire
+Slovak Republic,2004,27.45477497,wildfire
+Slovak Republic,2005,18.84791996,wildfire
+Slovak Republic,2006,1.27779032,wildfire
+Slovak Republic,2007,9.896254648,wildfire
+Slovak Republic,2008,6.174052146,wildfire
+Slovak Republic,2009,5.786160155,wildfire
+Slovak Republic,2010,0.913249087,wildfire
+Slovak Republic,2011,17.62266146,wildfire
+Slovak Republic,2012,27.10088211,wildfire
+Slovak Republic,2013,9.295607457,wildfire
+Slovak Republic,2014,23.14956138,wildfire
+Slovak Republic,2015,14.56617531,wildfire
+Slovak Republic,2016,5.841368256,wildfire
+Slovak Republic,2017,6.959999424,wildfire
+Slovak Republic,2018,3.638537405,wildfire
+Slovak Republic,2019,4.701664027,wildfire
+Slovak Republic,2020,1.138311077,wildfire
+Slovenia,2001,0.499047155,wildfire
+Slovenia,2002,0.0,wildfire
+Slovenia,2003,12.43400598,wildfire
+Slovenia,2004,0.165091066,wildfire
+Slovenia,2005,0.0,wildfire
+Slovenia,2006,4.167454939,wildfire
+Slovenia,2007,0.494849753,wildfire
+Slovenia,2008,0.0,wildfire
+Slovenia,2009,1.154383881,wildfire
+Slovenia,2010,0.0,wildfire
+Slovenia,2011,13.65116643,wildfire
+Slovenia,2012,9.143366964,wildfire
+Slovenia,2013,0.165714538,wildfire
+Slovenia,2014,0.824085616,wildfire
+Slovenia,2015,0.0,wildfire
+Slovenia,2016,3.517144717,wildfire
+Slovenia,2017,0.833684666,wildfire
+Slovenia,2018,2.317647703,wildfire
+Slovenia,2019,0.444395393,wildfire
+Slovenia,2020,0.0,wildfire
+Spain,2001,925.7018885,wildfire
+Spain,2002,1950.585675,wildfire
+Spain,2003,2129.452714,wildfire
+Spain,2004,2057.885363,wildfire
+Spain,2005,1861.561285,wildfire
+Spain,2006,1467.147436,wildfire
+Spain,2007,854.538986,wildfire
+Spain,2008,320.4308665,wildfire
+Spain,2009,991.2196356,wildfire
+Spain,2010,315.1550625,wildfire
+Spain,2011,903.452397,wildfire
+Spain,2012,2094.797311,wildfire
+Spain,2013,794.085898,wildfire
+Spain,2014,354.5852675,wildfire
+Spain,2015,760.2380136,wildfire
+Spain,2016,873.3543512,wildfire
+Spain,2017,1430.018969,wildfire
+Spain,2018,133.2041027,wildfire
+Spain,2019,517.0655576,wildfire
+Spain,2020,582.6368484,wildfire
+Sweden,2001,0.0,wildfire
+Sweden,2002,1.522022519,wildfire
+Sweden,2003,0.0,wildfire
+Sweden,2004,0.131588217,wildfire
+Sweden,2005,1.003689413,wildfire
+Sweden,2006,36.91012172,wildfire
+Sweden,2007,3.269326885,wildfire
+Sweden,2008,0.904061551,wildfire
+Sweden,2009,1.131256058,wildfire
+Sweden,2010,0.0,wildfire
+Sweden,2011,0.0,wildfire
+Sweden,2012,0.0,wildfire
+Sweden,2013,0.0,wildfire
+Sweden,2014,121.319158,wildfire
+Sweden,2015,5.14612579,wildfire
+Sweden,2016,0.0,wildfire
+Sweden,2017,1.75541689,wildfire
+Sweden,2018,153.4600925,wildfire
+Sweden,2019,0.0,wildfire
+Sweden,2020,0.0,wildfire
+Switzerland,2001,0.495963747,wildfire
+Switzerland,2002,1.820210212,wildfire
+Switzerland,2003,2.809840864,wildfire
+Switzerland,2004,0.0,wildfire
+Switzerland,2005,0.979198627,wildfire
+Switzerland,2006,0.0,wildfire
+Switzerland,2007,0.816763481,wildfire
+Switzerland,2008,0.0,wildfire
+Switzerland,2009,3.258369773,wildfire
+Switzerland,2010,0.0,wildfire
+Switzerland,2011,0.0,wildfire
+Switzerland,2012,0.164785181,wildfire
+Switzerland,2013,0.0,wildfire
+Switzerland,2014,8.688794028,wildfire
+Switzerland,2015,0.0,wildfire
+Switzerland,2016,1.150737788,wildfire
+Switzerland,2017,0.493485629,wildfire
+Switzerland,2018,0.0,wildfire
+Switzerland,2019,0.0,wildfire
+Switzerland,2020,0.0,wildfire
+Türkiye,2001,5926.655625,wildfire
+Türkiye,2002,4281.244352,wildfire
+Türkiye,2003,3854.348396,wildfire
+Türkiye,2004,4321.46126,wildfire
+Türkiye,2005,4445.418709,wildfire
+Türkiye,2006,6096.285424,wildfire
+Türkiye,2007,4538.974665,wildfire
+Türkiye,2008,2814.324453,wildfire
+Türkiye,2009,13877.70066,wildfire
+Türkiye,2010,8444.55912,wildfire
+Türkiye,2011,10138.19669,wildfire
+Türkiye,2012,3119.404489,wildfire
+Türkiye,2013,6256.830468,wildfire
+Türkiye,2014,4403.245833,wildfire
+Türkiye,2015,10646.94447,wildfire
+Türkiye,2016,8126.317006,wildfire
+Türkiye,2017,5046.359545,wildfire
+Türkiye,2018,3606.41838,wildfire
+Türkiye,2019,3456.892459,wildfire
+Türkiye,2020,4744.284758,wildfire
+United Kingdom,2001,25.4239898,wildfire
+United Kingdom,2002,0.0,wildfire
+United Kingdom,2003,225.9035502,wildfire
+United Kingdom,2004,4.399358915,wildfire
+United Kingdom,2005,19.33464684,wildfire
+United Kingdom,2006,55.25973781,wildfire
+United Kingdom,2007,138.4575725,wildfire
+United Kingdom,2008,0.0,wildfire
+United Kingdom,2009,20.07069509,wildfire
+United Kingdom,2010,36.46593749,wildfire
+United Kingdom,2011,76.11413737,wildfire
+United Kingdom,2012,54.34617982,wildfire
+United Kingdom,2013,0.0,wildfire
+United Kingdom,2014,0.0,wildfire
+United Kingdom,2015,34.95387235,wildfire
+United Kingdom,2016,6.49601607,wildfire
+United Kingdom,2017,9.300228604,wildfire
+United Kingdom,2018,70.31940024,wildfire
+United Kingdom,2019,156.1390694,wildfire
+United Kingdom,2020,37.68147629,wildfire
+United States,2001,14036.55987,wildfire
+United States,2002,26033.55507,wildfire
+United States,2003,30212.96692,wildfire
+United States,2004,41087.67948,wildfire
+United States,2005,44821.4269,wildfire
+United States,2006,40693.64303,wildfire
+United States,2007,43215.46243,wildfire
+United States,2008,30997.97159,wildfire
+United States,2009,32824.93611,wildfire
+United States,2010,25670.73122,wildfire
+United States,2011,45774.35702,wildfire
+United States,2012,40225.90891,wildfire
+United States,2013,23057.18645,wildfire
+United States,2014,26317.44247,wildfire
+United States,2015,43160.34619,wildfire
+United States,2016,32122.37897,wildfire
+United States,2017,40377.21277,wildfire
+United States,2018,40915.34038,wildfire
+United States,2019,27979.22292,wildfire
+United States,2020,49457.1218,wildfire
