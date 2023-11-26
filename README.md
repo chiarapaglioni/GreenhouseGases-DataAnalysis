@@ -1,7 +1,7 @@
 # Data Analysis of Greenhouse Gases Emissions
 
 
-**Course:** Data Analysis (KEN3450) at Maastricht University
+**Course:** Data Analysis (2223-KEN3450) at Maastricht University
 
 **Collaborators:** Bianca Caissotti di Chiusano, Sophia Widmer
 
